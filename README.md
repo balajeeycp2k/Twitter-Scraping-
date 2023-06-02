@@ -1,4 +1,4 @@
-# Twitter-Scraping-
+# Twitter-Scraping
 
 
 Twitter Scraper using Streamlit and MongoDB
